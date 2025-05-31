@@ -1,0 +1,11 @@
+# Ignore Python cache and virtual env folders
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.env
+.DS_Store
